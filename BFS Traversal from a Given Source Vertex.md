@@ -26,8 +26,7 @@ To write a Python program to **print BFS traversal** from a given source vertex.
 ## PYTHON PROGRAM
 
 ```
-#Reg.no 212222090012
-#Name Lokeshwari D
+
 
 from collections import defaultdict
 class Graph:
